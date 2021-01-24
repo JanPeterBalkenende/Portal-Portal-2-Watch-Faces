@@ -1,0 +1,12 @@
+This folder contains the files for the animation of the second hand. Each bar is grayed out, but for every second that passes, a bar is blacked out. 
+There should be 59 bars, but because I'm a dumbass there is 61. Use the "counterfix.png" image to obscure the last two bars for the 
+Portal version (just paste that bit over the bars), and the "fixup.png" for the Portal 2 version. I had to make all 61 of these images by hand 
+(for some reason I thought a minute had 61 seconds) and I dind't feel like remaking all of them. It was a hell to gray out all the bars.
+
+If you're importing this animation into GWD, it's important to note that animation runs at 15fps. Meaning that unless you want 4 minutes to pass every minute, 
+you'll need to make 14 more copies of every single .png file in this folder so that it comes to 900 total images. 15 per second. It's not hard, just ctrl+a, ctrl+c, 
+and then hit ctrl+v exactly 14 times. They'll all be in order still. Then import every image into GWD.
+
+If you use Facer, god be with you. I have never used it and I have no idea how it works so you're on your own champ.
+
+I would have uploaded all 900 images, but github limited the upload to 100. Fuck maybe I could just .zip it or tar it. Idk not my problem.
